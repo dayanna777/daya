@@ -1,9 +1,6 @@
 # CUEVA-VACA-JONATHAN-FERNANDO
 
 
-  
-doctor Stalin Falta
-
 ##Lista
 
 ###no ordenadas
